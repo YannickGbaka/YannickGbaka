@@ -7,6 +7,8 @@
 💞️ I’m looking to collaborate on innovative projects where I can apply my expertise in software development and language coaching.
 
 📫 How to reach me: You can contact me via email or LinkedIn for any opportunities or collaborations.
+email : gosseyannick553@gmail.com
+LinkedIN : https://www.linkedin.com/in/gosseycg/
 
 😄 Pronouns: He/Him
 
