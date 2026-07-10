@@ -1,4 +1,3 @@
-```md
 # 👋 Hi, I’m Yannick GBAKA
 
 I’m a **Backend-focused Software Engineer** based in Abidjan, Côte d’Ivoire, with **5+ years of experience** building web platforms, REST APIs, business workflows, and scalable digital products.
@@ -92,4 +91,3 @@ I’m open to collaborating on:
 ## ⚡ Fun fact
 
 Outside of coding, I’m passionate about English communication and language coaching. I’ve helped learners from Côte d’Ivoire, Senegal, Congo, France, Canada, and other countries improve their spoken English and confidence.
-```
